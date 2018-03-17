@@ -1,0 +1,17 @@
+From 8bf0d7997794390baabc22a00142ed85abfdc0fa Mon Sep 17 00:00:00 2001
+From: Matt Smith <36825923+mats23177@users.noreply.github.com>
+Date: Sat, 17 Mar 2018 19:02:34 +0000
+Subject: [PATCH] Create README.md
+
+---
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..4dc4fb4
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# matts-team-work  made to help with anything on github
